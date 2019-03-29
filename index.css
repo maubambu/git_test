@@ -6,3 +6,7 @@ a{
 h1{
     color: blue;
 }
+
+body{
+    box-sizing: border-box;
+}
